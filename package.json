@@ -1,0 +1,19 @@
+{
+  "name": "fastbit",
+  "version": "0.0.1",
+  "description": "node interface to (some) FastBit C++ functions",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajo2995/fastbit.git"
+  },
+  "keywords": [
+    "fastbit"
+  ],
+  "author": "Andrew Olson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajo2995/fastbit/issues"
+  },
+  "homepage": "https://github.com/ajo2995/fastbit"
+}
